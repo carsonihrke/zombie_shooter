@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b43de1modwrog"
-path="res://.godot/imported/TX Props with Shadow.png-8363e55e93c0f57fd5e45a2a64905e44.ctex"
+uid="uid://ccoov21j3b1s2"
+path="res://.godot/imported/attack1_up.png-d0b3a4745f73e813217683394189dc39.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Texture/Extra/TX Props with Shadow.png"
-dest_files=["res://.godot/imported/TX Props with Shadow.png-8363e55e93c0f57fd5e45a2a64905e44.ctex"]
+source_file="res://sprites/ATTACK 1/attack1_up.png"
+dest_files=["res://.godot/imported/attack1_up.png-d0b3a4745f73e813217683394189dc39.ctex"]
 
 [params]
 
